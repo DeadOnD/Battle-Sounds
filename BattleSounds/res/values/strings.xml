@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Battle Sounds</string>
+    <string name="action_share">Share this app</string>
+    <string name="title_section1">Loud Gunshot</string>
+    <string name="title_section2">Machine Gun</string>
+    <string name="title_section3">Bomb Explosions</string>
+    <string name="title_section4">Helicopter</string>
+    <string name="title_section5">Battle Tank</string>
+    <string name="title_section6">Fighter Plane</string>
+    <!-- Icons from https://www.iconfinder.com/hooktraffic -->
+</resources>
